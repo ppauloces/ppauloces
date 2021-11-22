@@ -1,5 +1,6 @@
 ### Olá! Eu sou Paulo Amaral 👋
 
+- 👶 18 anos.
 - 🔭 Atualmente trabalhando com contabilidade, porém se eu achar uma oportunidade na minha área nem penso duas vezes 👀.
 - 🌱 Estudando mobile com Flutter e web com PHP. Porém focando mais em PHP.
 
