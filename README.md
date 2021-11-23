@@ -1,6 +1,5 @@
 ### Olá! Eu sou Paulo Amaral 👋
 
-- 👶 18 anos.
 - 🔭 Atualmente trabalhando com contabilidade, porém se eu achar uma oportunidade na minha área nem penso duas vezes 👀.
 - 🌱 Estudando mobile com Flutter e web com PHP. Porém focando mais em PHP.
 
@@ -28,7 +27,7 @@
 
 <div> 
   
-  <a href="https://instagram.com/ppauloces/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  [![Instagram Badge](https://img.shields.io/badge/@ppauloces-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ppauloces/)
   <a href = "mailto:ppauloces27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ppauloces" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://open.spotify.com/user/yjamfcscvh72bhcjye7nk4fur?si=CxmrdmW6T42nURJuHtFzrQ&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
@@ -36,5 +35,9 @@
   ![Snake animation](https://github.com/ppauloces/ppauloces/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+  ##
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yjamfcscvh72bhcjye7nk4fur&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
