@@ -1,7 +1,7 @@
 ### Olá! Eu sou Paulo Amaral 👋
 
-- 🔭 Atualmente trabalhando com contabilidade, porém se eu achar uma oportunidade na minha área nem penso duas vezes 👀.
-- 🌱 Estudando mobile com Flutter e web com PHP. Porém focando mais em PHP.
+- 🔭 PHP Student | FullStack | CTO at UpNetwork (coming soon).
+- 👨‍💻 18y | Técnico em informática - 3/4
 
 ##
 
