@@ -36,8 +36,5 @@
  
 </div>
  
-  ##
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yjamfcscvh72bhcjye7nk4fur&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
   
