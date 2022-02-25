@@ -1,6 +1,6 @@
 ### Olá! Eu sou Paulo Amaral 👋
 
-- 🔭 PHP Student | FullStack | CTO at UpNetwork (coming soon).
+- 🔭 PHP Student | FullStack | 18y
 - 👨‍💻 18y | Técnico em informática - 3/4
 
 ##
