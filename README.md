@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 PHP Student | FullStack<br>👨‍💻 19y | Técnico em informática (IFBA) - 4/4
+🔭 PHP Student | FullStack<br>👨‍💻 | Técnico em informática (IFBA) - 4/4
 
 
 ## 🌐 Socials:
